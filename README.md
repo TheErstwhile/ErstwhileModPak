@@ -32,23 +32,23 @@ Default Example:
 <a id="roadmap"></a>
 # Roadmap
 
-- [*] Enable Selling (Nearly) Broken Equipment
-- [*] Normalized Repair Costs
-- [*] Carry Weight and Over Weight Balancing
-- [*] Adjust AI based on Player Possition and Weather
-    - [*] Player sneaking is better when crouching
-    - [*] Player sneaking is better when walking
-    - [*] Hard to hear in Rain
-    - [*] Hard to see in Fog 
-- [*] Adjust AI to be more ammo concious and shot placment tie more to skill level
-- [*] All firearms decaay at the same rate
-- [*] Days are longer than the blink of an eye (doubled)
-- [*] Climb and Vault eye level (roughly) objects
-- [*] Balance stamina usage (Skif is a soldier not a couch potato)
-- [*] Balance melee so that hits align more with Field of View
-- [*] Match mouse vertical motion speed to mouse horizontal motion speed
-- [*] Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s
-    - [*] If you have a better graphics card set your graphics to HIGH or better
+- [X] Enable Selling (Nearly) Broken Equipment
+- [X] Normalized Repair Costs
+- [X] Carry Weight and Over Weight Balancing
+- [X] Adjust AI based on Player Possition and Weather
+    - [X] Player sneaking is better when crouching
+    - [X] Player sneaking is better when walking
+    - [X] Hard to hear in Rain
+    - [X] Hard to see in Fog 
+- [X] Adjust AI to be more ammo concious and shot placment tie more to skill level
+- [X] All firearms decaay at the same rate
+- [X] Days are longer than the blink of an eye (doubled)
+- [X] Climb and Vault eye level (roughly) objects
+- [X] Balance stamina usage (Skif is a soldier not a couch potato)
+- [X] Balance melee so that hits align more with Field of View
+- [X] Match mouse vertical motion speed to mouse horizontal motion speed
+- [X] Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s
+    - [X] If you have a better graphics card set your graphics to HIGH or better
 - [ ] Find a way to make tanky mutants less annoying
 
 <p align="right">[<a href="#start">back to top</a>]</p>
