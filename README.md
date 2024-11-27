@@ -40,15 +40,22 @@ Default Example:
     - [X] Player sneaking is better when walking
     - [X] Hard to hear in Rain
     - [X] Hard to see in Fog 
-- [X] Adjust AI to be more ammo concious and shot placment tie more to skill level
-- [X] All firearms decaay at the same rate
+- [ ] Adjust AI to be more ammo concious and shot placment tie more to skill level
+    - [ ] Misplaced this file need to work on it again
+    - [ ] NPCWeaponAttributesPrototypes.cfg
+- [X] All firearms decay at the same rate
 - [X] Days are longer than the blink of an eye (doubled)
 - [X] Climb and Vault eye level (roughly) objects
 - [X] Balance stamina usage (Skif is a soldier not a couch potato)
 - [X] Balance melee so that hits align more with Field of View
 - [X] Match mouse vertical motion speed to mouse horizontal motion speed
-- [X] Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s
-    - [X] If you have a better graphics card set your graphics to HIGH or better
+~~- [X] Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s~~
+~~    - [X] If you have a better graphics card set your graphics to HIGH or better~~
+    - [X] Engine.ini changes made the engine unstable
+- [X] Ammo, Food, and Medical Supplies all weigh the same
+    - [X] Unrealistic, but it gets tire some looting a bread then getting shot becasue you can't move
+- [X] Quest Items Weigh Nothing
+    - [X] Unrealistic, but every other game does it
 - [ ] Find a way to make tanky mutants less annoying
 
 <p align="right">[<a href="#start">back to top</a>]</p>
