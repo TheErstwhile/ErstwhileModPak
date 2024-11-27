@@ -52,7 +52,7 @@ Default Example:
 - ~~Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s~~
     - [X] Engine.ini changes made the engine unstable
 - [X] Ammo, Food, and Medical Supplies all weigh the same
-    - [X] Unrealistic, but it gets tire some looting a bread then getting shot becasue you can't move
+    - [X] Unrealistic, but looting a bread then getting shot becasue you can't move is annoying
 - [X] Quest Items Weigh Nothing
     - [X] Unrealistic, but every other game does it
 - [ ] Find a way to make tanky mutants less annoying
