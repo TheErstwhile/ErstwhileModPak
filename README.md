@@ -49,8 +49,7 @@ Default Example:
 - [X] Balance stamina usage (Skif is a soldier not a couch potato)
 - [X] Balance melee so that hits align more with Field of View
 - [X] Match mouse vertical motion speed to mouse horizontal motion speed
-~~- [X] Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s~~
-~~    - [X] If you have a better graphics card set your graphics to HIGH or better~~
+- ~~Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s~~
     - [X] Engine.ini changes made the engine unstable
 - [X] Ammo, Food, and Medical Supplies all weigh the same
     - [X] Unrealistic, but it gets tire some looting a bread then getting shot becasue you can't move
