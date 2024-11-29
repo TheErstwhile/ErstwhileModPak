@@ -5,7 +5,9 @@
 
 <!-- ABOUT THE PROJECT -->
 # About
-** COMPATIBLE AND INTEGRATED WITH PATCH 1.0.1 **
+
+_COMPATIBLE AND INTEGRATED WITH PATCH 1.0.1_
+
 The short and sweet of it: I am not a fan of Nexus Mods. No real reason, I just never cared for it. The majority of mods for S.T.A.L.K.E.R. 2 Heart of Chornobyl are hosted on [Nexus Mods](https://www.nexusmods.com/stalker2heartofchornobyl/) by very creative modders that I respect. Please check out their contributions to the community [<a href="#modders">modders list</a>]. I have been tweaking things I don’t care for in the game. Due to recent life developments, I prefer a more story centric game, but I am a fan of the S.T.A.L.K.E.R. series and a fan of the Chornobyl lore. I have been modding the game based on suggestions from Reddit and Discord. I am providing this MOD as an alternate location to acquire a mod package. I will list all the changes in the <a href="#roadmap">Roadmap</a> below. I hope you enjoy the mod, it is not for everyone.
 > [!TIP]
 > Look for “**# Erstwhile: Modified**” comments in the code to see what I changed and where it was changed.
