@@ -49,12 +49,13 @@ Default Example:
 - [X] Balance stamina usage (Skif is a soldier not a couch potato)
 - [X] Balance melee so that hits align more with Field of View
 - [X] Match mouse vertical motion speed to mouse horizontal motion speed
-- ~~Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s~~
+- [X] ~~Default Engine.ini changes to help my friends with Nvidia 1060s, 2070s and Radeon 7600s~~
     - [X] Engine.ini changes made the engine unstable
 - [X] Ammo, Food, and Medical Supplies all weigh the same
-    - [X] Unrealistic, but looting a bread then getting shot becasue you can't move is annoying
 - [X] Quest Items Weigh Nothing
-    - [X] Unrealistic, but every other game does it
+- [X] Artifacts protect from radiation now (ArtifactProtectionRadiation)
+- [X] Detectors now detect all anomoly types.
+    - [X] This requires editing the struct datatype in PassiveDetectorPrototypes.cfg (You can not put comments in a struct)
 - [ ] Find a way to make tanky mutants less annoying
 
 <p align="right">[<a href="#start">back to top</a>]</p>
