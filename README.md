@@ -5,6 +5,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # About
+** COMPATIBLE AND INTEGRATED WITH PATCH 1.0.1 **
 The short and sweet of it: I am not a fan of Nexus Mods. No real reason, I just never cared for it. The majority of mods for S.T.A.L.K.E.R. 2 Heart of Chornobyl are hosted on [Nexus Mods](https://www.nexusmods.com/stalker2heartofchornobyl/) by very creative modders that I respect. Please check out their contributions to the community [<a href="#modders">modders list</a>]. I have been tweaking things I don’t care for in the game. Due to recent life developments, I prefer a more story centric game, but I am a fan of the S.T.A.L.K.E.R. series and a fan of the Chornobyl lore. I have been modding the game based on suggestions from Reddit and Discord. I am providing this MOD as an alternate location to acquire a mod package. I will list all the changes in the <a href="#roadmap">Roadmap</a> below. I hope you enjoy the mod, it is not for everyone.
 > [!TIP]
 > Look for “**# Erstwhile: Modified**” comments in the code to see what I changed and where it was changed.
@@ -34,13 +35,13 @@ Default Example:
 
 - [X] Enable Selling (Nearly) Broken Equipment
 - [X] Normalized Repair Costs
-- [X] Carry Weight and Over Weight Balancing
-- [X] Adjust AI based on Player Possition and Weather
+- [X] Carry Weight and Overweight Balancing
+- [X] Adjust AI based on Player Position and Weather
     - [X] Player sneaking is better when crouching
     - [X] Player sneaking is better when walking
     - [X] Hard to hear in Rain
     - [X] Hard to see in Fog 
-- [ ] Adjust AI to be more ammo concious and shot placment tie more to skill level
+- [ ] Adjust AI to be more ammo conscious and shot placement tie more to skill level
     - [ ] Misplaced this file need to work on it again
     - [ ] NPCWeaponAttributesPrototypes.cfg
 - [X] All firearms decay at the same rate
@@ -53,10 +54,9 @@ Default Example:
     - [X] Engine.ini changes made the engine unstable
 - [X] Ammo, Food, and Medical Supplies all weigh the same
 - [X] Quest Items Weigh Nothing
-- [X] Artifacts protect from radiation now (ArtifactProtectionRadiation)
-- [X] Detectors now detect all anomoly types.
+- [X] Artifacts protect from radiation now (ArtifactAddRadiation > ArtifactProtectionRadiation)
+- [X] Detectors now detect all anomaly types.
     - [X] This requires editing the struct datatype in PassiveDetectorPrototypes.cfg (You can not put comments in a struct)
-- [ ] Find a way to make tanky mutants less annoying
 
 <p align="right">[<a href="#start">back to top</a>]</p>
 
